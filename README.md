@@ -14,6 +14,8 @@ These assets are provided by [Gluo](https://gluo.xyz) and are subject to the fol
 
 ## Contributors
 
+- @Berk404 (designed the mascot)
+- @nermalcat69 (designs banners using mascot and his figma skills)
 
 
 ## Contact
