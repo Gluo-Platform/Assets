@@ -4,7 +4,7 @@ These assets are provided by gluo.xyz and are subject to the following licensing
 
 ---------------------
 
-**License:**
+**Usage:**
 
 - You are free to use, share, and adapt these assets as long as you provide proper attribution to gluo.xyz or gluo.
 - These assets can be used for non-commercial purposes only.
