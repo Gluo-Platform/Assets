@@ -1,5 +1,8 @@
 # Gluo Asset Repository
 
+![assets](assets.png)
+
+
 These assets are provided by [Gluo](https://gluo.xyz) and are subject to the following licensing terms:
 
 ## Usage
